@@ -1,0 +1,5 @@
+This is a sample document for testing the Document class.
+It contains multiple lines of text.
+The Document class from langchain_core can process this content.
+We can also store metadata about this document such as source, author, and creation date.
+This file is created to demonstrate basic file operations using the os module.
